@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**ShreyPa/ShreyPa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Hi, I'm Shrey!  
+### 🚀 Computer Science Student | Aspiring Software Engineer  
 
-Here are some ideas to get you started:
+Passionate about building efficient and scalable solutions. I love coding in **Java** and exploring **OOP, algorithms, and software development**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 **Tech Stack:** Java, Python, OOP, Data Structures  
+🔹 **Interests:** Software Engineering, Game Development, Problem-Solving  
+🔹 **Currently Learning:** Advanced Java, System Design  
+
+### 📌 Projects  
+- 🎯 **[Archery Game](#)** – A 2D archery game built with Java Swing  
+- 🔢 **[Polynomial Solver](#)** – Java-based polynomial operations and Big-O analysis  
+- 📂 More projects coming soon!  
+
+### 📫 Let's Connect  
+📧 shreypanchal936@gmail.com | 💼 https://www.linkedin.com/in/shrey-panchal-39a57a345/ |
+
+🚀 *Always learning, always coding!*  
