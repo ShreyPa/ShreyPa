@@ -13,7 +13,6 @@ I’m passionate about **building software that solves real-world problems** and
 - 📅 **[Event Scheduling Platform](#)** – Full-stack web platform with multi-role event booking and conflict handling  
 - 🤖 **[Mars Rover](#)** – Arduino-powered autonomous rover with IR & ultrasound sensors for navigation  
 - 🏆 **[National OBotz Robotics Olympiad](#)** – Award-winning autonomous rover with obstacle avoidance & waste collection system  
-- 🏀 **[Charity Basketball Tournament](#)** – Organized a community sports event with 100+ participants and fundraising of ~$5,000  
 
 ### 📫 Let's Connect  
 📧 s1panchal@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/shrey-panchal-39a57a345/) | 🌐 [GitHub](https://github.com/ShreyPa)  
