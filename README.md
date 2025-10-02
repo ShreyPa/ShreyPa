@@ -1,20 +1,21 @@
 ## Hi there 👋
 
-# 💻 Hi, I'm Shrey!  
+# 💻 I'm Shrey Panchal  
 ### 🚀 Computer Science Student | Aspiring Software Engineer  
 
-Passionate about building efficient and scalable solutions. I love coding in **Java** and exploring **OOP, algorithms, and software development**.  
+I’m passionate about **building software that solves real-world problems** and exploring how technology can make systems more efficient and reliable. I enjoy working with **Java, Python, and web technologies**, and I’m always improving my skills in **algorithms, data structures, and full-stack development**.  
 
-🔹 **Tech Stack:** Java, Python, OOP, Data Structures  
-🔹 **Interests:** Software Engineering, Game Development, Problem-Solving  
-🔹 **Currently Learning:** Advanced Java, System Design  
+🔹 **Tech Stack:** Java, Python, JavaScript, React, Node.js, PostgreSQL, Tailwind CSS  
+🔹 **Interests:** Software Engineering, Full-Stack Development, Robotics, Problem-Solving  
+🔹 **Currently Learning:** Advanced Java, System Design, Scalable Web Applications  
 
 ### 📌 Projects  
-- 🎯 **[Archery Game](#)** – A 2D archery game built with Java Swing  
-- 🔢 **[Polynomial Solver](#)** – Java-based polynomial operations and Big-O analysis  
-- 📂 More projects coming soon!  
+- 📅 **[Event Scheduling Platform](#)** – Full-stack web platform with multi-role event booking and conflict handling  
+- 🤖 **[Mars Rover](#)** – Arduino-powered autonomous rover with IR & ultrasound sensors for navigation  
+- 🏆 **[National OBotz Robotics Olympiad](#)** – Award-winning autonomous rover with obstacle avoidance & waste collection system  
+- 🏀 **[Charity Basketball Tournament](#)** – Organized a community sports event with 100+ participants and fundraising of ~$5,000  
 
 ### 📫 Let's Connect  
-📧 shreypanchal936@gmail.com | 💼 https://www.linkedin.com/in/shrey-panchal-39a57a345/ |
+📧 s1panchal@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/shrey-panchal-39a57a345/) | 🌐 [GitHub](https://github.com/ShreyPa)  
 
-🚀 *Always learning, always coding!*  
+🚀 *Always learning, always building!*  
