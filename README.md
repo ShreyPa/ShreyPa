@@ -15,6 +15,6 @@ I’m passionate about **building software that solves real-world problems** and
 - 🏆 **[National OBotz Robotics Olympiad](#)** – Award-winning autonomous rover with obstacle avoidance & waste collection system  
 
 ### 📫 Let's Connect  
-📧 s1panchal@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/shrey-panchal-39a57a345/) | 🌐 [GitHub](https://github.com/ShreyPa)  
+📧 s1panchal@torontomu.ca | 💼 [LinkedIn](https://www.linkedin.com/in/shrey-panchal-39a57a345/) | 🌐 [GitHub](https://github.com/ShreyPa)  
 
 🚀 *Always learning, always building!*  
