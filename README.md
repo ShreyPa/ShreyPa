@@ -15,4 +15,4 @@
 ### 📫 Let's Connect  
 📧 s1panchal@torontomu.ca | 💼 [LinkedIn](https://www.linkedin.com/in/shrey-panchal-39a57a345/) 
 
-🚀 *Always learning, always building!*  
+🚀 
